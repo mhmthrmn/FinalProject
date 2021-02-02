@@ -1,2 +1,1 @@
-# FinalProject
-Camp Project
+# Final Camp Project
